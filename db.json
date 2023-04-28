@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "cee34436-4c6b-4716-9e41-565b3a21b854",
+      "name": "Sangeetha M S",
+      "email": "san123@gmail.com"
+    },
+    {
+      "id": "66d11bc7-ebde-4740-906b-100709bc0550",
+      "name": "maeve",
+      "email": "look@gmail.com"
+    },
+    {
+      "id": "4542a5eb-81bd-45b8-894e-5243ca3a278e",
+      "name": "jesmi",
+      "email": "jesmi@gmail.com"
+    },
+    {
+      "id": "8e11afd0-9025-4ee3-bdee-53fe97875dee",
+      "name": "Alison Abe",
+      "email": "alison@gmail.com"
+    },
+    {
+      "id": "787f0e54-85aa-40a1-b589-06b85747da41",
+      "name": "Ashish Abraham",
+      "email": "ashish@gmail.com"
+    }
+  ]
+}
